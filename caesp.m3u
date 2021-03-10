@@ -1,121 +1,21 @@
 #EXTM3U
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24 HORAS
-http://fliptv.vip:8011/omer/12345/55121?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="News;Undefined",24 Horas,24h Rtve (ES),rtve.es 24h
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24h Canarias
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",ANDALUCIA TV
-http://fliptv.vip:8011/omer/12345/55160?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AXN FullHD
-http://fliptv.vip:8011/omer/12345/55150?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AXN HD
-http://fliptv.vip:8011/omer/12345/55151?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Antena 3 FullHD
 http://fliptv.vip:8011/omer/12345/55205?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BARCA TV HD
-http://fliptv.vip:8011/omer/12345/55142?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sports Espa?a HD
-http://fliptv.vip:8011/omer/12345/55147?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Bein LaLiga bar FullHD
-http://fliptv.vip:8011/omer/12345/55144?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/pY8zxN3.png" group-title="Undefined",Bon Dia TV,ES | Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CALLE 13 FullHD
-http://fliptv.vip:8011/omer/12345/55169?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CALLE 13 HD
-http://fliptv.vip:8011/omer/12345/55170?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",COSMO FHD
-http://fliptv.vip:8011/omer/12345/55124?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Comedy Central HD
-http://fliptv.vip:8011/omer/12345/55172?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Undefined",ES | TV3 Catalunya,TV3 Catalunya
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8?checkedby:iptvcat.com
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Undefined",324,ES | 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX HD
-http://fliptv.vip:8011/omer/12345/55175?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX LIFE HD
-http://fliptv.vip:8011/omer/12345/55174?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",HISTORIA HD
-http://fliptv.vip:8011/omer/12345/55128?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="Undefined",Interalmeria TV
-http://interalmeria.tv/directo/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA FullHD
-http://fliptv.vip:8011/omer/12345/55199?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://fliptv.vip:8011/omer/12345/55200?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La 1 FullHD
-http://fliptv.vip:8011/omer/12345/55208?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La 2 FullHD
-http://fliptv.vip:8011/omer/12345/55120?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="Entertainment",La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR SERIES FHD
-http://fliptv.vip:8011/omer/12345/55193?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar CineN HD
-http://fliptv.vip:8011/omer/12345/55191?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar DEPORTES 2
-http://fliptv.vip:8011/omer/12345/55181?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Drama FHD
-http://fliptv.vip:8011/omer/12345/55195?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Drama HD
-http://fliptv.vip:8011/omer/12345/55196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Estrenos HD
-http://fliptv.vip:8011/omer/12345/55189?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NEOX HD
-http://fliptv.vip:8011/omer/12345/55140?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NOVA
-http://fliptv.vip:8011/omer/12345/55162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nat Geo Wild FullHD
-http://fliptv.vip:8011/omer/12345/55153?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NatGeo Wild HD
-http://fliptv.vip:8011/omer/12345/55154?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic FullHD
-http://fliptv.vip:8011/omer/12345/55155?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic HD
-http://fliptv.vip:8011/omer/12345/55156?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic Wild FHD
-http://mail.vipmek.com:8800/565656/565656/38658?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Odisea HD
-http://fliptv.vip:8011/omer/12345/55157?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Paramount Channel
-http://mail.vipmek.com:8800/565656/565656/38655?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",RTVC
 http://fliptv.vip:8011/omer/12345/55123?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/ZigKzBj.png" group-title="Undefined",RTVE
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Syfy HD
-http://fliptv.vip:8011/omer/12345/55166?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TCM FullHD
-http://fliptv.vip:8011/omer/12345/55141?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TELECINCO HD
-http://fliptv.vip:8011/omer/12345/55202?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TNT HD
-http://fliptv.vip:8011/omer/12345/55164?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TVE Internacional
-http://fliptv.vip:8011/omer/12345/57575?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local;Undefined",TVG Cultural
 http://cultural-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Taquilla 1
-http://fliptv.vip:8011/omer/12345/55138?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Telecinco FullHD
-http://fliptv.vip:8011/omer/12345/55201?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/3N90uxs.png" group-title="Undefined",Trece TV
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
-http://bazarhd.online:80/307210113622/307210113622/81424?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMI-TV
-http://185.63.254.40:80/912461531477289/840194034422592/176081?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AQUARIUM
-http://185.63.254.40:80/912461531477289/840194034422592/259053?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Undefined",Amazing Discoveries TV,CA | Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC EARTH
-http://185.63.254.40:80/912461531477289/840194034422592/259070?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD
 http://185.63.254.40:80/912461531477289/840194034422592/259074?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
@@ -124,65 +24,53 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Undefined",CA | NTV,NTV,NTV CA
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CANAL D
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/28195?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC News Network
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/58971?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC News Network HD
 http://185.63.254.40:80/912461531477289/840194034422592/176093?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNBC HD
-http://185.63.254.40:80/912461531477289/840194034422592/176088?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN HD
 http://185.63.254.40:80/912461531477289/840194034422592/176095?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN International
 http://185.63.254.40:80/912461531477289/840194034422592/259073?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24 News HD
 http://185.63.254.40:80/912461531477289/840194034422592/176094?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24  HD
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/28188?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2 VANCOUVER
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/58980?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV News Channel HD
 http://185.63.254.40:80/912461531477289/840194034422592/176090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/58976?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",EURONEWS
 http://185.63.254.40:80/912461531477289/840194034422592/259072?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fox News Network
 http://185.63.254.40:80/912461531477289/840194034422592/176092?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Gusto
-http://185.63.254.40:80/912461531477289/840194034422592/242944?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Headline News
-http://185.63.254.40:80/912461531477289/840194034422592/176087?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL VANCOUVER
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/58974?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTIME
 http://185.63.254.40:80/912461531477289/840194034422592/242949?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV 2
-http://bazarhd.online:80/307210113622/307210113622/81241?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NASA
-http://185.63.254.40:80/912461531477289/840194034422592/259054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO
-http://bazarhd.online:80/307210113622/307210113622/81228?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MovieTime
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/26606?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NTV
 http://185.63.254.40:80/912461531477289/840194034422592/13337?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PBS 9 (KCTS) Seattle
-http://185.63.254.40:80/912461531477289/840194034422592/176078?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
 http://185.63.254.40:80/912461531477289/840194034422592/175777?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
 http://185.63.254.40:80/912461531477289/840194034422592/175775?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
-http://185.63.254.40:80/912461531477289/840194034422592/175774?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
 http://185.63.254.40:80/912461531477289/840194034422592/175773?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportnet Pacific HD
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/2448?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TCM HD
 http://185.63.254.40:80/912461531477289/840194034422592/242951?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE LATINO
-http://bazarhd.online:80/307210113622/307210113622/81312?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TMN 1
-http://185.63.254.40:80/912461531477289/840194034422592/242952?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSC HD
 http://185.63.254.40:80/912461531477289/840194034422592/242954?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
-http://185.63.254.40:80/912461531477289/840194034422592/175769?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2
-http://185.63.254.40:80/912461531477289/840194034422592/175768?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
-http://185.63.254.40:80/912461531477289/840194034422592/175767?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1 HD
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/28113?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4
 http://185.63.254.40:80/912461531477289/840194034422592/175766?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5
-http://185.63.254.40:80/912461531477289/840194034422592/175765?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Weather Network HD
-http://185.63.254.40:80/912461531477289/840194034422592/176086?checkedby:iptvcat.com
